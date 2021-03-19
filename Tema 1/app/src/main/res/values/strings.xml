@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tema 1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="F1A1">Fragment 1 on activity 1</string>
+    <string name="F1A2">Fragment 1 on activity 2</string>
+    <string name="F2A2">Fragment 2 on activity 2</string>
+    <string name="F3A2">Fragment 3 on Activity 2</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
